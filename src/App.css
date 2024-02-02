@@ -1,0 +1,26 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+  width:100%;
+
+}
+
+.items-container{
+  text-align: left;
+  margin-top: 20px;
+  font-family: sans-serif;
+  font-size: medium;
+  
+}
+.ab-row{
+  margin: 7px 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+.ab-btn{
+  min-width: 100px;
+}
